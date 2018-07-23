@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://lh3.ggpht.com/R_3FGG3ii9pp_e5iaO5L0Jr224GQnAY1RBKU52s1KbjthXHDN4jNiNbR6ATo620o8g=h900");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  
+  h1 {
+    border: solid 2px;
+    border-radius: 30px;
+    width: 50%;
+    background-color: #3c2f6d;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  
+  #user-weight {
+    display: block;
+    margin: auto;
+  }
+  
+  #planets {
+    display: block;
+    margin: auto;
+  }
+  
+  #output {
+    border: solid black 2px;
+    border-radius: 10px;
+    border-collapse: collapse;
+    background-color: #6050A1;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Open Sans Condensed", sans-serif;
+    font-weight: bold;
+  }
+  
+  #calculate-button {
+    display: block;
+    margin: auto;
+  }
+  
